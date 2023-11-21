@@ -1,0 +1,8 @@
+
+K
+java:S2115")Add password protection to this database.(¹»­èúÿÿÿÿ8ë¢£‹¿1
+L	java:S1062"+Replace this use of System.out by a logger.(ÍÃÔãýÿÿÿÿ8©³Œ‹¿1
+L	java:S106>"+Replace this use of System.out by a logger.(¬Â¨¢øÿÿÿÿ8ª³Œ‹¿1
+G	java:S106G"+Replace this use of System.out by a logger.(è§ç¯8«³Œ‹¿1
+G	java:S106N"+Replace this use of System.out by a logger.(ºÀÙ¿8¬³Œ‹¿1
+G	java:S106Z"+Replace this use of System.out by a logger.(ò³à³8­³Œ‹¿1
